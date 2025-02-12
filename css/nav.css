@@ -1,5 +1,5 @@
 header {
-    background-color: #f2f2f2;
+    background-color: rgba(2, 4, 78, 0.9);
     margin: 0;
 }
 
@@ -19,7 +19,7 @@ p {
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 15px 15px;
   text-decoration: none;
